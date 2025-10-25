@@ -1,0 +1,5 @@
+{
+  "name": "School Assembly Presentation",
+  "description": "A dynamic presentation generator for a 4th-grade school assembly, featuring slides for the school name, pledge, thought for the day, news, and special events.",
+  "requestFramePermissions": []
+}
